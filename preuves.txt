@@ -7,3 +7,12 @@ portion 3 : attiete poisson - 1500 FCFA
 total à payer : 4500 FCFA
 chère Awa le montant total a payé est 4500 FCFA
 Monnaie à rendre : 500 FCFA
+
+II/ Le recapitulatif du code 2
+
+client : Awa
+portion 1 : riz poulet - 2000 FCFA
+portion 2 : riz poulet - 2000 FCFA
+total à payer : 4000 FCFA
+chère Awa le montant total a payé est 4000 FCFA
+Montant manquant : 1000 FCFA
