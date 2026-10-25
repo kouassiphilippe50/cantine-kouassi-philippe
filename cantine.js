@@ -39,15 +39,15 @@ for (let a=1;a<=quantite;a++){
 
     console.log(`total à payer : ${total} FCFA`)
 
-// // ======== la Monnaie et Montant manquant==========
-//     console.log(`chère ${client} le montant total a payé est ${total} FCFA`)
-//        if (montantverse >= total){
-//     let monnaie=montantverse - total
-//     console.log(`Monnaie à rendre : ${monnaie} FCFA`)
-//     }else{
-//     let manquant=total - montantverse
-//     console.log(`Montant manquant : ${manquant} FCFA`)
-//     }
+// ======== la Monnaie et Montant manquant==========
+    console.log(`chère ${client} le montant total a payé est ${total} FCFA`)
+       if (montantverse >= total){
+    let monnaie=montantverse - total
+    console.log(`Monnaie à rendre : ${monnaie} FCFA`)
+    }else{
+    let manquant=total - montantverse
+    console.log(`Montant manquant : ${manquant} FCFA`)
+    }
 
 
 
