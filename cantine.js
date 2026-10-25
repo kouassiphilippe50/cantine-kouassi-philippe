@@ -6,21 +6,21 @@ let quantite = "3";
 // conversion
 quantite = Number(quantite);// conversion a la chaine nombre
 
-// // =======le plat et don prix en fonction du code
-// let nomplat;
-// let prixunitaire
+// =======le plat et don prix en fonction du code
+let nomplat;
+let prixunitaire
 
-// if(codeplat === 1){
-//     nomplat ="attiete poisson"
-//     prixunitaire = 1500;
-// }else if(codeplat === 2)
-//     {
-//     nomplat="riz poulet"
-//     prixunitaire= 2000;
-// }else{
-//     nomplat="alloco oeuf"
-//     prixunitaire=1000;
-// }
+if(codeplat === 1){
+    nomplat ="attiete poisson"
+    prixunitaire = 1500;
+}else if(codeplat === 2)
+    {
+    nomplat="riz poulet"
+    prixunitaire= 2000;
+}else{
+    nomplat="alloco oeuf"
+    prixunitaire=1000;
+}
 
 // // =========la fonction qui calcule le total=========
 // function calculertotal(quantite,prixunitaire){
