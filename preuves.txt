@@ -16,3 +16,14 @@ portion 2 : riz poulet - 2000 FCFA
 total à payer : 4000 FCFA
 chère Awa le montant total a payé est 4000 FCFA
 Montant manquant : 1000 FCFA
+
+III/ le recapitultif du code 3
+
+client : Awa
+portion 1 : alloco oeuf - 1000 FCFA
+portion 2 : alloco oeuf - 1000 FCFA
+portion 3 : alloco oeuf - 1000 FCFA
+portion 4 : alloco oeuf - 1000 FCFA
+total à payer : 4000 FCFA
+chère Awa le montant total a payé est 4000 FCFA
+Monnaie à rendre : 0 FCFA
