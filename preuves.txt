@@ -1,1 +1,9 @@
+I/ Le Recapitulatif du code 1
 
+client : Awa             
+portion 1 : attiete poisson - 1500 FCFA
+portion 2 : attiete poisson - 1500 FCFA
+portion 3 : attiete poisson - 1500 FCFA
+total à payer : 4500 FCFA
+chère Awa le montant total a payé est 4500 FCFA
+Monnaie à rendre : 500 FCFA
