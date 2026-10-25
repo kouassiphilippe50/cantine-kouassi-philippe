@@ -30,14 +30,14 @@ function calculertotal(quantite,prixunitaire){
 // =========le resultat de la fonction
 let total = calculertotal(quantite,prixunitaire)
 
-// // =======le recapitulatif=================
-// console.log(`client : ${client}`)
+// =======le recapitulatif=================
+console.log(`client : ${client}`)
 
-// for (let a=1;a<=quantite;a++){
-//     console.log(`portion ${a} : ${nomplat} - ${prixunitaire} FCFA`)
-// }
+for (let a=1;a<=quantite;a++){
+    console.log(`portion ${a} : ${nomplat} - ${prixunitaire} FCFA`)
+}
 
-//     console.log(`total à payer : ${total} FCFA`)
+    console.log(`total à payer : ${total} FCFA`)
 
 // // ======== la Monnaie et Montant manquant==========
 //     console.log(`chère ${client} le montant total a payé est ${total} FCFA`)
