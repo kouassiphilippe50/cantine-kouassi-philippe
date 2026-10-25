@@ -22,13 +22,13 @@ if(codeplat === 1){
     prixunitaire=1000;
 }
 
-// // =========la fonction qui calcule le total=========
-// function calculertotal(quantite,prixunitaire){
-//     return quantite*prixunitaire
-// }
+// =========la fonction qui calcule le total=========
+function calculertotal(quantite,prixunitaire){
+    return quantite*prixunitaire
+}
 
-// // =========le resultat de la fonction
-// let total = calculertotal(quantite,prixunitaire)
+// =========le resultat de la fonction
+let total = calculertotal(quantite,prixunitaire)
 
 // // =======le recapitulatif=================
 // console.log(`client : ${client}`)
