@@ -2,7 +2,7 @@
 # La caisse de la cantine
 
 programme JavaScript qui calcule le montant d'une commande et affiche un récapitulatif.
-<!-- 
+
 ## Lancer le programme
 node cantine.js
 
@@ -12,4 +12,4 @@ node cantine.js
 3 - Alloco-œuf : 1 000 FCFA
 
 ## Auteur
-kouassi philippe -->
+kouassi philippe
