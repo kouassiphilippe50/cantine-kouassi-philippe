@@ -1,7 +1,7 @@
 let client="Awa";
-let codeplat = 2;
-let montantverse = 3000;
-let quantite = "2";
+let codeplat = 3;
+let montantverse = 4000;
+let quantite = "4";
 
 // conversion
 quantite = Number(quantite);// conversion a la chaine nombre
