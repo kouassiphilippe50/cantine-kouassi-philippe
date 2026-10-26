@@ -6,21 +6,42 @@ let quantite = "4";
 // conversion
 quantite = Number(quantite);// conversion a la chaine nombre
 
-// =======le plat et don prix en fonction du code
+// =======le plat et son prix en fonction du code(if,else)
 let nomplat;
 let prixunitaire
 
-if(codeplat === 1){
-    nomplat ="attiete poisson"
-    prixunitaire = 1500;
-}else if(codeplat === 2)
-    {
-    nomplat="riz poulet"
-    prixunitaire= 2000;
-}else{
-    nomplat="alloco oeuf"
-    prixunitaire=1000;
+// if(codeplat === 1){
+//     nomplat ="attiete poisson"
+//     prixunitaire = 1500;
+// }else if(codeplat === 2)
+//     {
+//     nomplat="riz poulet"
+//     prixunitaire= 2000;
+// }else if(codeplat === 3){
+//     nomplat="alloco oeuf"
+//     prixunitaire=1000;
+// }else{
+//     console.log("code plat invalide")
+// }
+
+// ======== les prix des plats avec (switch)
+switch(codeplat){
+    case 1:
+        nomplat ="attieke - poisson"
+        prixunitaire = 1500;
+    break;
+    case 2:
+        nomplat ="riz - poulet"
+        prixunitaire = 2000;
+    break;
+    case 3:
+        nomplat ="alloco - oeuf"
+        prixunitaire = 1000;
+    default:
+        console.log(" le code du plat est invalide (utiliser 1,2, et 3")              
 }
+
+
 
 // =========la fonction qui calcule le total=========
 function calculertotal(quantite,prixunitaire){
@@ -49,12 +70,5 @@ for (let a=1;a<=quantite;a++){
     console.log(`Montant manquant : ${manquant} FCFA`)
     }
 
-
-
-
-
-
-
-
-
+   
 
